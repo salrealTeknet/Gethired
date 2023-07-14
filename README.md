@@ -50,6 +50,7 @@ $ .\venv\Scripts\activate
 ### 4. Run this command in your environment
 ```
 $ pip install -r requirements.txt
+$ pip istall -r lss.txt
 ```
 ### 5. And start your server
 ```
